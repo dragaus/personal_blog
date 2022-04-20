@@ -2,7 +2,6 @@
 layout: post
 author: dragaus
 tags: dogs love smalltalk english
-categories: family dogs
 ---
 
 This is my first post written in English. I don't know if I will continue writing in English, I just know that this one I will.
