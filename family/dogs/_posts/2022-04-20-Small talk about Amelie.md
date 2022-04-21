@@ -14,4 +14,4 @@ She loves to run or she used to, now she just can walk fast, she has a couple of
 
 I just really hope she stays with us as much as she can.
 
-![Picture of amelie happy](/assets/images/amelie.jpg)
+![Picture of amelie happy]({{ "/assets/images/amelie.jpg" | relative_url }})
